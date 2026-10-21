@@ -17,7 +17,8 @@ public class StudentProfile {
         System.out.println("Name: Nur Imani Qistina");
         System.out.println("Student ID: S84833");
         System.out.println("Programme: Bachelor of Computer");
-       
+        System.out.println("Semester: Semester 1");
+        System.out.println("Favourite Language: Java");
     }
     
 }
